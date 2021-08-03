@@ -34,3 +34,7 @@ namespace fghj
             Console.WriteLine("la sumatoria de tonas seria :  " + resultado);
 
             Console.ReadLine();
+
+        }
+    }
+}
